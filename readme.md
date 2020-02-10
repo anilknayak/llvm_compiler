@@ -28,6 +28,8 @@ Compiler has two main structures
 3. Machine Code Generation
 
 # LLVM Learning outline
-### hello_world: LLVM compiler in high level
-### llvm_pass: Learn LLVM compiler passes (code optimizer)
-### More to come ...
+## 1. hello_world: 
+LLVM compiler in high level
+## 2. llvm_pass: 
+Learn LLVM compiler passes (code optimizer)
+## 3. More to come ...
